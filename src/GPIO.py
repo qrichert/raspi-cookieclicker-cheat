@@ -33,5 +33,5 @@ class GPIO:
 		pass
 
 	@staticmethod
-	def cleanup(self):
+	def cleanup():
 		pass
