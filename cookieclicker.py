@@ -65,5 +65,5 @@ if __name__ == '__main__':
 		cc = CookieClicker()
 		cc.run()
 	except KeyboardInterrupt:
-		pass  # GPIO.cleanup()
+		GPIO.cleanup()
 

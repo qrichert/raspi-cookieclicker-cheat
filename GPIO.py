@@ -31,3 +31,7 @@ class GPIO:
 	def output(_, state):
 		# print('HIGH' if state else 'LOW')
 		pass
+
+	@staticmethod
+	def cleanup(self):
+		pass
