@@ -41,7 +41,7 @@ class CookieClicker:
 			cps = input("New CPS? (q = quit) ")
 
 			if cps in ['q', 'Q', 'quit', 'exit']:
-				return
+				raise KeyboardInterrupt  # Not the cleanest but whatever, it will trigger the same exit as Ctrl+C
 
 			os.system('clear')
 
