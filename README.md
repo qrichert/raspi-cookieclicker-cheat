@@ -19,12 +19,12 @@ For demo videos see `demo/`.
 
 <p align="center">
     <a href="#" target="_blank">
-        <img src="diagram/raspi-cookieclicker-cheat_bb.png" alt="Breadboard" width="791">
+        <img src="diagram/raspi-cookieclicker-cheat_bb.png" alt="Breadboard" width="833">
     </a>
 </p>
 
 <p align="center">
     <a href="#" target="_blank">
-        <img src="demo/still.jpg" alt="Hardware" width="791">
+        <img src="demo/still.jpg" alt="Hardware" width="833">
     </a>
 </p>
