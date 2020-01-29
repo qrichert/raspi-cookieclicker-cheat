@@ -51,6 +51,13 @@ class CookieClicker:
 				print(bcolors.BOLD + bcolors.FAIL + "Invalid number." + bcolors.ENDC)
 				continue
 
+			try:
+				if cps <= 0:
+					raise ValueError
+			except ValueError:
+				print(bcolors.BOLD + bcolors.FAIL + "CPS must be higher than 0." + bcolors.ENDC)
+				continue
+
 			if cps > self.MAX_CPS:
 				cps = self.MAX_CPS
 				print(bcolors.WARNING + "CPS is limited to {}. CPS set to {}.".format(self.MAX_CPS, self.MAX_CPS) + bcolors.ENDC)
