@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# import Rpi.GPIO as GPIO
-from GPIO import GPIO
+import RPi.GPIO as GPIO
+#from GPIO import GPIO
 import threading
 import time
 import os
