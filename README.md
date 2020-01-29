@@ -17,6 +17,12 @@ Cheating utility for Cookie Clicker 2 using a Raspberry Pi's GPIO interface.
 
 <p align="center">
     <a href="#" target="_blank">
-        <img src="raspi-cookieclicker-cheat_bb.png" alt="Hardware (Breadboard)" width="791">
+        <img src="raspi-cookieclicker-cheat_bb.png" alt="Breadboard" width="791">
+    </a>
+</p>
+
+<p align="center">
+    <a href="#" target="_blank">
+        <img src="demo/still.jpg" alt="Hardware" width="791">
     </a>
 </p>
